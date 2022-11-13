@@ -12,6 +12,8 @@ Please note that:
 - File names of actual data are excluded from each script, while intermediate objects (e.g., model fits) that are imported at later stages are retained;
 - All scripts exports output (data, tables, figures) to certain directories that are not included in this repository.
 
+If you have any question regarding this material, please [open an Issue](https://github.com/ellessenne/SCREAM/issues) here on GitHub.
+
 Finally, all code included in this repository is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 Everything else included here that is not code is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
 
