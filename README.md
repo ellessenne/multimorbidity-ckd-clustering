@@ -1,11 +1,19 @@
 # The Presence and Impact of Multimorbidity Clusters on Adverse Outcome Across the Spectrum of Kidney Function
 
+<!-- Shields -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<!-- -->
+
 This repository contains statistical code written in [R](https://cran.r-project.org) that can be used to replicate the analyses reported in paper titled ["The Presence and Impact of Multimorbidity Clusters on Adverse Outcome Across the Spectrum of Kidney Function"](https://doi.org/10.1186/s12916-022-02628-2), published in BMC Medicine and available Open Access.
 
 The structure of the code published in this repository is described in each subsection below, by topic.
 Please note that:
 - File names of actual data are excluded from each script, while intermediate objects (e.g., model fits) that are imported at later stages are retained;
 - All scripts exports output (data, tables, figures) to certain directories that are not included in this repository.
+
+Finally, all code included in this repository is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+Everything else included here that is not code is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
 
 ## eGFR Interpolation
 
